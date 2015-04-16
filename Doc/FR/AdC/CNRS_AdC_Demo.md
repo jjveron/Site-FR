@@ -5,7 +5,7 @@ P1.Nom.=[FR/Sec/FR_Prepositions_Voyelle.md]
 P1.Nom.=[FR/Sec/FR_Prepositions_Masculines.md]
 
 P2.Nom.=[FR/Sec/FR_Prepositions_Masculines.md]
-
+ 
 P1.Sign.=[core/id/andrea_ang]
 
 P1.Sign.Titre.son/sa=sa {P1.Sign.Titre}
@@ -16,7 +16,7 @@ P2.Sign.=[core/id/abigail_altima]
 
 P2.Sign.Titre.son/sa=sa {P2.Sign.Titre}
 
-P2.Sign.Titre=Présidente
+P2.Sign.Titre=PrÃ©sidente
   
 P1.=[core/id/acme_incorporated]
 
@@ -38,25 +38,25 @@ Accord.Sign.Date=6 mars 2015
 
 Sign.YMD={Accord.Sign.Date}
 
-Recherche.Sujet.cl=la lévitation
+Recherche.Sujet.cl=la lÃ©vitation
 
-P1.Competence.Domaine.du/de_la=de l'ingénierie aéronautique
+P1.Competence.Domaine.du/de_la=de l'ingÃ©nierie aÃ©ronautique
 
 P2.Rep1.Nom.M/Mme=M. Samuel Salmon
 
-P2.Reps.Nommés=M.Samuel Salmon et Mme. Abigail Altima
+P2.Reps.NommÃ©s=M.Samuel Salmon et Mme. Abigail Altima
 
 6.1.2.cl=par la {P1.Sign.Titre} {P1.du/de_la}
 
-6.3.sec=Les procédés de transmission sont par e-mail avec message de confirmation de reception.
+6.3.sec=Les procÃ©dÃ©s de transmission sont par e-mail avec message de confirmation de reception.
 
-Conf.Engage.Période.de=de trois ans
+Conf.Engage.PÃ©riode.de=de trois ans
 
 Conf.Detruite.Jours.les=les dix jours
 
-Fin.Préavis.Jours.de=de trente jours
+Fin.PrÃ©avis.Jours.de=de trente jours
 
-Accord.Durée.de=d'un an
+Accord.DurÃ©e.de=d'un an
 
 PageBreak={null}
 
