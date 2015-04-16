@@ -1,18 +1,18 @@
-Intro.P1.sec={P1.N,E,A}, représenté{P1.Nom./e} par {P1.Sign.Titre.son/sa}, {P1.Sign.Name.Full}, ( « {P1.le/la} » )
+Intro.P1.sec={P1.N,E,A}, reprÃ©sentÃ©{P1.Nom./e} par {P1.Sign.Titre.son/sa}, {P1.Sign.Name.Full}, ( Â« {P1.le/la} Â» )
 
-Intro.P2.sec={P2.N,E,A}, représenté{P2.Nom./e} par {P2.Sign.Titre.son/sa}, {P2.Sign.Name.Full}, ( « {P2.le/la} » )
+Intro.P2.sec={P2.N,E,A}, reprÃ©sentÃ©{P2.Nom./e} par {P2.Sign.Titre.son/sa}, {P2.Sign.Name.Full}, ( Â« {P2.le/la} Â» )
 
-Intro.P3.sec={P3.N,E,A}, représenté{P3.Nom./e} par {P3.Sign.Titre.son/sa}, {P3.Sign.Name.Full}, ( « {P3.le/la} » )
+Intro.P3.sec={P3.N,E,A}, reprÃ©sentÃ©{P3.Nom./e} par {P3.Sign.Titre.son/sa}, {P3.Sign.Name.Full}, ( Â« {P3.le/la} Â» )
 
-Intro.P4.sec={P4.N,E,A}, représenté{P4.Nom./e} par {P4.Sign.Titre.son/sa}, {P4.Sign.Name.Full}, ( « {P4.le/la} » )
+Intro.P4.sec={P4.N,E,A}, reprÃ©sentÃ©{P4.Nom./e} par {P4.Sign.Titre.son/sa}, {P4.Sign.Name.Full}, ( Â« {P4.le/la} Â» )
+ 
+Intro.P5.sec={P5.N,E,A}, reprÃ©sentÃ©{P5.Nom./e} par {P5.Sign.Titre.son/sa}, {P5.Sign.Name.Full}, ( Â« {P5.le/la} Â» )
 
-Intro.P5.sec={P5.N,E,A}, représenté{P5.Nom./e} par {P5.Sign.Titre.son/sa}, {P5.Sign.Name.Full}, ( « {P5.le/la} » )
-
-Intro.P6.sec={P6.N,E,A}, représenté{P6.Nom./e} par {P6.Sign.Titre.son/sa}, {P6.Sign.Name.Full}, ( « {P6.le/la} » )
+Intro.P6.sec={P6.N,E,A}, reprÃ©sentÃ©{P6.Nom./e} par {P6.Sign.Titre.son/sa}, {P6.Sign.Name.Full}, ( Â« {P6.le/la} Â» )
 
 Intro.Parties.Ti=Entre les {parties} :
 
-Intro.Parties.xlist=<ul type="none"><li>{Intro.Parties.List}<li>Dénommés individuellement une « {Partie} » et collectivement  les « {Parties} »</ul>
+Intro.Parties.xlist=<ul type="none"><li>{Intro.Parties.List}<li>DÃ©nommÃ©s individuellement une Â« {Partie} Â» et collectivement  les Â« {Parties} Â»</ul>
 
 Intro.Persons.sec={Intro.Parties.Sec}
 
@@ -44,11 +44,11 @@ P5.N,E,A={P5.Name.Full}, {P5.Forme} dont l'adresse principal est {P5.Addr.1,2}
 
 P6.N,E,A={P6.Name.Full}, {P6.Forme} dont l'adresse principal est {P6.Addr.1,2}
  
-Intro.Friends.xlist=<ul type="none"><li>{Intro.Friends.List}<li>Dénommés individuellement une « {Partie_Tierce_Identifiée} » et collectivement  les « {Parties_Tierce_Identifiées} »</ul>
+Intro.Friends.xlist=<ul type="none"><li>{Intro.Friends.List}<li>DÃ©nommÃ©s individuellement une Â« {Partie_Tierce_IdentifiÃ©e} Â» et collectivement  les Â« {Parties_Tierce_IdentifiÃ©es} Â»</ul>
 
-Intro.Friends.Ti=Des tierces mentionnés dans cette {Accord}:
+Intro.Friends.Ti=Des tierces mentionnÃ©s dans cette {Accord}:
 
-Intro.YMD.sec=DATE EFFECTIVE: {Accord.Sign.Date} (la « {Date_Effective} » )
+Intro.YMD.sec=DATE EFFECTIVE: {Accord.Sign.Date} (la Â« {Date_Effective} Â» )
 
 Intro.Agree.This.sec={null}
 
@@ -62,9 +62,9 @@ Accord={d-}Accord{-d}
 
 Date_Effective={d-}date de l'{Accord}{-d}
 
-Partie_Tierce_Identifiée={d-}Partie Tierce Identifiée{-d}
+Partie_Tierce_IdentifiÃ©e={d-}Partie Tierce IdentifiÃ©e{-d}
 
-Parties_Tierce_Identifiées={d-}Parties Tierce Identifiées{-d}
+Parties_Tierce_IdentifiÃ©es={d-}Parties Tierce IdentifiÃ©es{-d}
 
 PageBreak={SautDePage}
 
