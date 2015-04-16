@@ -4,12 +4,12 @@ le/la=la {Handle}
 
 du/de_la=de la {Handle}
 
-au/à_la=à la {Handle}
+au/Ã _la=Ã  la {Handle}
 
-au/a_la=à la {Handle}
+au/a_la=Ã  la {Handle}
 
 lui/elle=elle
 
 /e=e
-
+ 
 =[FR/FR_Autres_Elements.md]
