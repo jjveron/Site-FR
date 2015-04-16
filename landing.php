@@ -12,7 +12,7 @@ include("header.php");
      <p align="center"><img src="assets/cmacc-trans.png" style="width:65%" /></p>
 <br/>
 <hr>
-<h1 class="title">un <a href="http://bitly.com/1DWGTxs"></a>Code Civil 3.0</a></h1>
+<h1 class="title">un <a href="http://bitly.com/1DWGTxs">Code Civil 3.0</a></h1>
 <br/><br/>
 
 </div></div>
