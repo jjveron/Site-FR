@@ -4,7 +4,7 @@ le/la=le {Handle}
 
 du/de_la=du {Handle}
 
-au/à_la=au {Handle}
+au/Ã _la=au {Handle}
 
 au/a_la=au {Handle}
 
