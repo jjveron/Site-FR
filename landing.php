@@ -13,8 +13,8 @@ include("header.php");
 <br/>
 <hr>
 <table><tr><td width="40%">
-<h2>un <a href="http://bitly.com/1DWGTxs">Code Civil 3.0</a></h2><br><br>
-        <h2 ><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/>Documents</a>.</h2>
+<h2>vers un <a href="http://bitly.com/1DWGTxs">Code Civil 3.0</a></h2><br><br>
+        <h2 ><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/>Documents</a></h2>
 
 </td><td> &emsp; 
 </td><td> &emsp; 
