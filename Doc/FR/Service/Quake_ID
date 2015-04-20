@@ -1,0 +1,17 @@
+Nom=Quake
+
+FormeJuridique=SA
+
+Capital=1.000.000 Euros
+
+Adresse.1,3=1 rue Longue, 93001 Bobigny, France
+ 
+RCS.Adr.Ville=
+
+RCS.#=RCS BOBIGNY 321 123 312
+
+Dirigeant1.Nom=Marie Matignon
+
+Dirigent1.Titre=Président
+
+Model.Root=<ol><li>Nom : {Nom}<li>FormeJuridique : {FormeJuridique}<li>Capital : {Capital}<li>Adresse.1,3 : {Adresse.1,3}<li>RCS.Adr.Ville: {RCS.Adr.Ville}<li>RCS.# : {RCS.#}<li>Dirigeant1.Nom : {Dirigeant1.Nom}<li>Dirigent1.Titre : {Dirigent1.Titre}</ol>  
