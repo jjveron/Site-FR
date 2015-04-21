@@ -2,4 +2,5 @@ Model.Root=<ol><li>{Champs.Base}<li>FormeJuridique : {FormeJuridique}<li>Capital
 
 =[FR/ID/Type_ID.md]
 
-Sign.Block=<table><tr><th>{Nom}</th></tr><tr><td>par : <br><br>{Dirigeant1.Nom}, son {Dirigeant1.Titre}</td></tr><tr>Date : {Sign.Date}</table>
+Sign.Block=<table><tr><th>{Nom}</th></tr><tr><td>par : <br><br>{Dirigeant1.Nom}, son {Dirigeant1.Titre}</td></tr><tr><td>Date : {Sign.Date}</td></tr></table>
+  
