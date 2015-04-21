@@ -13,7 +13,7 @@ include("header.php");
 echo "
 <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>Org$rootdir[dirname]</a>/<b>$filenameX</b>
 &emsp; &emsp; &emsp; &emsp;  
-<a href=$_SERVER[PHP_SELF]?action=print&file=$rootdir[dirname]/$filenameX>Print</a>
+<a href=$_SERVER[PHP_SELF]?action=print&file=$rootdir[dirname]/$filenameX>Imprimer</a>
   &emsp;  &emsp;  &emsp;  
 <a href=https://github.com/CommonAccord/FR/blob/master/Doc/$rootdir[dirname]/$filenameX>Voir à GitHub</a>
 
