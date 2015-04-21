@@ -14,7 +14,7 @@ Adresse.Paye=France
  
 RCS.#=RCS BOBIGNY 321 123 312
 
-Dirigeant1.=[FR/ID/Marie_Matignon}
+Dirigeant1.=[FR/ID/Marie_Matignon.md}
 
 Dirigent1.Titre=Président
 
