@@ -16,7 +16,6 @@ RCS.#=RCS PARIS 453 983 245
 
 Dirigeant1.=[FR/ID/Jean_Valjean.md]
 
-Dirigent1.Titre=Gérant
+Dirigeant1.Titre=Gérant
 
-=[FR/ID/Type_Société.md]
- 
+=[FR/ID/Type_Société.md]  
