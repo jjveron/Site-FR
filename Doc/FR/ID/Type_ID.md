@@ -8,4 +8,4 @@ Adresse.1/3={Adresse.1}<br>{Adresse.2}<br>{Adresse.3}
 
 Adresse.2={Adresse.CP} {Addresse.Ville}
 
-Adresse.3={Adresse.Paye}
+Adresse.3={Adresse.Paye} 
