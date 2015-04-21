@@ -2,4 +2,7 @@ Model.Root=<ol><li>Nom : {Nom}<li>FormeJuridique : {FormeJuridique}<li>Capital :
 
 Adresse.1,3={Adresse.1}, {Adresse.2}, {Adresse.3}
 
+Adresse.2={Adresse.CP} {Address.Ville}
+
+Adresse.3={Adresse.Paye}
 
