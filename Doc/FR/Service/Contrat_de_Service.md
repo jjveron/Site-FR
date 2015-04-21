@@ -64,4 +64,4 @@ xlist={Nlist}
 
 Note : Mettre le header au centre :
 
-DocBody={Doc}  
+DocBody={Doc} 
