@@ -1,5 +1,5 @@
-P1.=[FR/Service/Acme_ID]
+P1.=[FR/ID/Acme_SA]
 
-P2.=[FR/Service/Quake_ID]
+P2.=[FR/ID/Quake_SARL]
 
 =[FR/Service/Contrat_de_Service.md]
