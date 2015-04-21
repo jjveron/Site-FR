@@ -19,3 +19,4 @@ Dirigeant1.=[FR/ID/Jean_Valjean.md]
 Dirigent1.Titre=Gérant
 
 =[FR/ID/Type_Société.md]
+ 
