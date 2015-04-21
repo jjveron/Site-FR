@@ -10,7 +10,7 @@ Adresse.2=75001 Paris
 
 Adresse.3=France
  
-RCS.Adr.Ville=Paris
+RCS.Adresse.Ville=Paris
 
 RCS.#=RCS PARIS 453 983 245
 
