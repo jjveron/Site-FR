@@ -29,7 +29,7 @@ echo "
   <ul>
     <li><a href="#tab-render">Document</a></li>
     <li><a href="#tab-source">Source</a></li>
-    <li><a href="#tab-edit">Edit</a></li>
+    <li><a href="#tab-edit">Modifier</a></li>
     </ul>
 
 <div id="tab-render">
