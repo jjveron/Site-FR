@@ -8,7 +8,7 @@ Adresse.1=10 rue Longue
 
 Adresse.CP=93001
 
-Adress.Ville=Bobigny
+Adresse.Ville=Bobigny
 
 Adresse.Paye=France
  
@@ -18,4 +18,4 @@ Dirigeant1.=[FR/ID/Marie_Matignon.md}
 
 Dirigent1.Titre=Président
 
-=[Doc/FR/ID/Type_Société.md]
+=[FR/ID/Type_Société.md]
