@@ -4,11 +4,11 @@ Ti=CONTRAT DE PRESTATION DE SERVICES
 
 0.0.sec=Entre les soussignés :
 
-0.1.sec=La société {P1.Nom}, {P1.FormeJuridique} au capital de {P1.Capital} euros, dont le siège social est {P1.Adresse.1,3}, enregistrée au Registre du Commerce et des Sociétés de {P1.RCS.Adresse.Ville} sous le numéro {P1.RCS.#}, Représentée par M. {P1.Dirigeant1.Nom}, {P1.Dirigent1.Titre},<p>ci-après désignée " Le Client ",<p> d'une part,
+0.1.sec=La société {P1.Nom}, {P1.FormeJuridique} au capital de {P1.Capital} euros, dont le siège social est {P1.Adresse.1,3}, enregistrée au Registre du Commerce et des Sociétés de {P1.RCS.Adresse.Ville} sous le numéro {P1.RCS.#}, Représentée par M. {P1.Dirigeant1.Nom}, {P1.Dirigeant1.Titre},<p>ci-après désignée " Le Client ",<p> d'une part,
 
 0.2.sec=<strong>et</strong>
 
-0.3.sec=La société {P2.Nom}, {P2.FormeJuridique} au capital de {P2.Capital} euros, dont le siège social est {P2.Adresse.1,3}, enregistrée au Registre du Commerce et des Sociétés de {P2.RCS.Adresse.Ville} sous le numéro {P2.RCS.#}, Représentée par M. {P2.Dirigeant1.Nom}, {P2.Dirigent1.Titre},<p>ci-après désignée " le Prestataire de services " ou " le Prestataire ",<p>d'autre part,
+0.3.sec=La société {P2.Nom}, {P2.FormeJuridique} au capital de {P2.Capital} euros, dont le siège social est {P2.Adresse.1,3}, enregistrée au Registre du Commerce et des Sociétés de {P2.RCS.Adresse.Ville} sous le numéro {P2.RCS.#}, Représentée par M. {P2.Dirigeant1.Nom}, {P2.Dirigeant1.Titre},<p>ci-après désignée " le Prestataire de services " ou " le Prestataire ",<p>d'autre part,
 
 0.=[Bit/Ssec_03]
 
