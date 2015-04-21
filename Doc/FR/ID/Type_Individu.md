@@ -1,5 +1,5 @@
 
-Model.Root=<ol><li>Nom : {Nom}<li>FormeJuridique : {FormeJuridique}<li>Adresse.1,3 : {Adresse.1,3}</ol>
+Model.Root=<ol><li>{Champs.Base}<li>FormeJuridique : {FormeJuridique}</ol>
 
 FormeJuridique=Individu
 
