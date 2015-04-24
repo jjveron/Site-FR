@@ -1,4 +1,4 @@
-=[Forme/AdC/CNRS_AdC_Etranger_Forme.01.md]
+=[Accord/AdC/CNRS_AdC_Etranger_Forme.01.md]
 
 P1.Nom.=[Sec/FR_Prepositions_Voyelle.md]
 
@@ -62,4 +62,4 @@ PageBreak={null}
 
 Attach.Block={null}
 
-PageName=Forme/AdC/CNRS_AdC_Demo.md
+PageName=Accord/AdC/CNRS_AdC_Demo.md

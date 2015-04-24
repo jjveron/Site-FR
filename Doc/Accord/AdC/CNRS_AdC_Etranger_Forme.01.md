@@ -143,5 +143,5 @@ Tribunaux.les=les tribunaux français compétents
 
 Informations_Confidentielles={d-}Informations Confidentielles{-d}
 
-PageName=Forme/CNRS_AdC_Etranger_Forme.01.md
+PageName=Accord/CNRS_AdC_Etranger_Forme.01.md
 
