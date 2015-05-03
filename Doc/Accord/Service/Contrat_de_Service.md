@@ -10,7 +10,7 @@ Ti=CONTRAT DE PRESTATION DE SERVICES
 
 0.3.sec=La société {P2.Nom}, {P2.FormeJuridique} au capital de {P2.Capital} euros, dont le siège social est {P2.Adresse.1,3}, enregistrée au Registre du Commerce et des Sociétés de {P2.RCS.Adresse.Ville} sous le numéro {P2.RCS.#}, Représentée par M. {P2.Dirigeant1.Nom}, {P2.Dirigeant1.Titre},<p>ci-après désignée " le Prestataire de services " ou " le Prestataire ",<p>d'autre part,
 
-0.=[Bit/Ssec_03]
+0.=[Bit/Sec_s03]
 
 0.xlist={0.Nlist}
 
@@ -32,7 +32,7 @@ Ti=CONTRAT DE PRESTATION DE SERVICES
 
 2.90.sec=Les frais engagés par le prestataire : déplacement, hébergement, repas et frais annexes de dactylographie, reprographie, etc., nécessaires à l'exécution de la prestation, seront facturés en sus au client sur relevé de dépenses.<p>Les sommes prévues ci-dessus seront payées par chèque, dans les huit jours de la réception de la facture, droits et taxes en sus.
 
-2.=[Bit/Ssec_03]
+2.=[Bit/Sec_s03]
 
 3.Ti=Article 3 - Durée
 

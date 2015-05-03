@@ -68,7 +68,7 @@ Parties_Tierce_Identifiées={d-}Parties Tierce Identifiées{-d}
 
 PageBreak={SautDePage}
 
-=[Bit/Agt/Agt.md]
+=[Bit/Acte/Accord.md]
 
 PageName=FR/Accord.FR.01.md
 

@@ -1,10 +1,10 @@
 Model.Root={Sec}
 
-Sec={PageBreak}<br>{Witness.sec}<br>{Parties.List}{Attach.Block}
+Sec={PageBreak}<br>{Witness.sec}<br>{Parties.List}
 
 Witness.sec=IN WITNESS WHEREOF, the {parties} have executed {this_Agreement} as of the {Effective_Date}.
 
-Parties.List={Parties.List.1-6}
+Parties.List={Parties.List.1-2}
 
 Parties.List.1-2=<table><tr>{P1.Sign.td}<td width="100px"></td>{P2.Sign.td}</tr></table>
 

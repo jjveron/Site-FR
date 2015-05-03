@@ -15830,3 +15830,3646 @@ Array
 
 ./
 
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54681
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430654787.424
+    [REQUEST_TIME] => 1430654787
+    [argv] => Array
+        (
+            [0] => action=list&file=./
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54683
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Bit/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Bit/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430654797.191
+    [REQUEST_TIME] => 1430654797
+    [argv] => Array
+        (
+            [0] => action=list&file=./Bit/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Bit/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54683
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Bit/Acte/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Bit/Acte/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430654799.116
+    [REQUEST_TIME] => 1430654799
+    [argv] => Array
+        (
+            [0] => action=list&file=./Bit/Acte/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/Acte/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Bit/Acte/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54683
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=./Bit/Acte/Accord.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=./Bit/Acte/Accord.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430654800.351
+    [REQUEST_TIME] => 1430654800
+    [argv] => Array
+        (
+            [0] => action=source&file=./Bit/Acte/Accord.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/Acte/Accord.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 723
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ORIGIN] => http://hazardj.local
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Bit/Acte/Accord.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54684
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /commonaccord/index.php
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655185.904
+    [REQUEST_TIME] => 1430655185
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+::: Array
+(
+    [newcontent] => Intro.=[Bit/Acte/Accord_Intro.md]
+
+Fin.=[Bit/Agt/Accord_Fin.md]
+
+Attach.=[Bit/Attach]
+  
+Model.Root={DocCorp}
+
+DocCorp={Doc}
+
+Doc=<font color="grey">{MessagePourUtilisateur}</font><center><h4>{EnTete.Sec}</h4></center>{Intro.Sec}<br>{xlist}<br>{Fin.Sec}{Attach.Sec} 
+
+EnTete.Sec={Ti}
+
+xlist={Olist}
+
+Olist=<ol><li>{Secs}</li></ol>
+
+null=<b></b>
+
+=[Bit/Acte/Mots_Base.md]
+
+  
+    [submit] => Save
+    [file] => ./Bit/Acte/Accord.md
+    [action] => source
+)
+
+./Bit/Acte/Accord.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54685
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Bit/Acte/Accord_Intro.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Bit/Acte/Accord_Intro.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655193.44
+    [REQUEST_TIME] => 1430655193
+    [argv] => Array
+        (
+            [0] => action=source&file=Bit/Acte/Accord_Intro.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Acte/Accord_Intro.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Bit/Acte/Accord_Intro.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54685
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=Bit/Acte/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=Bit/Acte/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655195.966
+    [REQUEST_TIME] => 1430655195
+    [argv] => Array
+        (
+            [0] => action=list&file=Bit/Acte/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Acte/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=Bit/Acte/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54685
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Bit/Acte/Accord_Fin.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Bit/Acte/Accord_Fin.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655197.162
+    [REQUEST_TIME] => 1430655197
+    [argv] => Array
+        (
+            [0] => action=source&file=Bit/Acte/Accord_Fin.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Acte/Accord_Fin.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Bit/Acte/Accord_Fin.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54685
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=Bit/Acte/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=Bit/Acte/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655199.069
+    [REQUEST_TIME] => 1430655199
+    [argv] => Array
+        (
+            [0] => action=list&file=Bit/Acte/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Acte/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=Bit/Acte/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54685
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Bit/Acte/Accord.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Bit/Acte/Accord.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655202.201
+    [REQUEST_TIME] => 1430655202
+    [argv] => Array
+        (
+            [0] => action=source&file=Bit/Acte/Accord.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Acte/Accord.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Bit/Acte/Accord.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54686
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Bit/Agt/Accord_Fin.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Bit/Agt/Accord_Fin.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655208.045
+    [REQUEST_TIME] => 1430655208
+    [argv] => Array
+        (
+            [0] => action=source&file=Bit/Agt/Accord_Fin.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Agt/Accord_Fin.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Bit/Agt/Accord_Fin.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54687
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=Bit/Agt/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=Bit/Agt/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655218.155
+    [REQUEST_TIME] => 1430655218
+    [argv] => Array
+        (
+            [0] => action=list&file=Bit/Agt/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Agt/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=Bit/Agt/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54687
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=Bit/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=Bit/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655219.918
+    [REQUEST_TIME] => 1430655219
+    [argv] => Array
+        (
+            [0] => action=list&file=Bit/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=Bit/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54687
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655220.622
+    [REQUEST_TIME] => 1430655220
+    [argv] => Array
+        (
+            [0] => action=list&file=./
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54687
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Accord/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Accord/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655222.953
+    [REQUEST_TIME] => 1430655222
+    [argv] => Array
+        (
+            [0] => action=list&file=./Accord/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Accord/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Accord/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54687
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655225.658
+    [REQUEST_TIME] => 1430655225
+    [argv] => Array
+        (
+            [0] => action=list&file=./
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54687
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Bit/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Bit/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655227.73
+    [REQUEST_TIME] => 1430655227
+    [argv] => Array
+        (
+            [0] => action=list&file=./Bit/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Bit/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54687
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Bit/Acte/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Bit/Acte/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655229.449
+    [REQUEST_TIME] => 1430655229
+    [argv] => Array
+        (
+            [0] => action=list&file=./Bit/Acte/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/Acte/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Bit/Acte/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54687
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=./Bit/Acte/Accord.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=./Bit/Acte/Accord.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655230.855
+    [REQUEST_TIME] => 1430655230
+    [argv] => Array
+        (
+            [0] => action=source&file=./Bit/Acte/Accord.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/Acte/Accord.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 712
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ORIGIN] => http://hazardj.local
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Bit/Acte/Accord.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54688
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /commonaccord/index.php
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655240.94
+    [REQUEST_TIME] => 1430655240
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+::: Array
+(
+    [newcontent] => Intro.=[Bit/Acte/Accord_Intro.md]
+
+Fin.=[Bit/Acte/Accord_Fin.md]
+
+Attach.=[Bit/Attach]
+  
+Model.Root={DocCorp}
+
+DocCorp={Doc}
+
+Doc=<font color="grey">{MessagePourUtilisateur}</font><center><h4>{EnTete.Sec}</h4></center>{Intro.Sec}<br>{xlist}<br>{Fin.Sec}{Attach.Sec} 
+
+EnTete.Sec={Ti}
+
+xlist={Olist}
+
+Olist=<ol><li>{Secs}</li></ol>
+
+null=<b></b>
+
+=[Bit/Acte/Mots_Base.md]  
+    [submit] => Save
+    [file] => ./Bit/Acte/Accord.md
+    [action] => source
+)
+
+./Bit/Acte/Accord.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54689
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Bit/Acte/Accord_Fin.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Bit/Acte/Accord_Fin.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655293.637
+    [REQUEST_TIME] => 1430655293
+    [argv] => Array
+        (
+            [0] => action=source&file=Bit/Acte/Accord_Fin.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Acte/Accord_Fin.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 2074
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ORIGIN] => http://hazardj.local
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Bit/Acte/Accord_Fin.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54690
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /commonaccord/index.php
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655321.661
+    [REQUEST_TIME] => 1430655321
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+::: Array
+(
+    [newcontent] => Model.Root={Sec}
+
+Sec={PageBreak}<br>{Witness.sec}<br>{Parties.List}
+
+Witness.sec=IN WITNESS WHEREOF, the {parties} have executed {this_Agreement} as of the {Effective_Date}.
+
+Parties.List={Parties.List.1-2}
+
+Parties.List.1-2=<table><tr>{P1.Sign.td}<td width="100px"></td>{P2.Sign.td}</tr></table>
+
+Parties.List.1-3=<table><tr>{P1.Sign.td}<td width="100px"></td>{P2.Sign.td}</tr><tr>{P3.Sign.td}</tr></table>
+
+Parties.List.1-4=<table><tr>{P1.Sign.td}<td width="100px"></td>{P2.Sign.td}</tr><tr>{P3.Sign.td}<td></td>{P4.Sign.td}</tr></table>
+
+Parties.List.1-5=<table><tr>{P1.Sign.td}<td width="100px"></td>{P2.Sign.td}</tr><tr>{P3.Sign.td}<td></td>{P4.Sign.td}</tr><tr>{P5.Sign.td}</tr></table>
+
+Parties.List.1-6=<table><tr>{P1.Sign.td}<td width="100px"></td>{P2.Sign.td}</tr><tr>{P3.Sign.td}<td></td>{P4.Sign.td}</tr><tr>{P5.Sign.td}<td width="100px"></td>{P6.Sign.td}</tr></table>
+
+P1.Sign.td=<td valign="top" width="300px">{P1.Sign.Block}</td>
+
+P2.Sign.td=<td valign="top" width="300px">{P2.Sign.Block}</td>
+
+P3.Sign.td=<td valign="top" width="300px">{P3.Sign.Block}</td>
+
+P4.Sign.td=<td valign="top" width="300px">{P4.Sign.Block}</td>
+
+P5.Sign.td=<td valign="top" width="300px">{P5.Sign.Block}</td>    
+
+P6.Sign.td=<td valign="top" width="300px">{P6.Sign.Block}</td>  
+    [submit] => Save
+    [file] => Bit/Acte/Accord_Fin.md
+    [action] => source
+)
+
+Bit/Acte/Accord_Fin.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54691
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Bit/Acte/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Bit/Acte/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655334.886
+    [REQUEST_TIME] => 1430655334
+    [argv] => Array
+        (
+            [0] => action=list&file=./Bit/Acte/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/Acte/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Bit/Acte/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54691
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=./Bit/Acte/Accord.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=./Bit/Acte/Accord.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655336.292
+    [REQUEST_TIME] => 1430655336
+    [argv] => Array
+        (
+            [0] => action=source&file=./Bit/Acte/Accord.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/Acte/Accord.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Bit/Acte/Accord.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54692
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Bit/Acte/Accord_Fin.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Bit/Acte/Accord_Fin.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655367.559
+    [REQUEST_TIME] => 1430655367
+    [argv] => Array
+        (
+            [0] => action=source&file=Bit/Acte/Accord_Fin.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Acte/Accord_Fin.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Bit/Acte/Accord.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54693
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Bit/Acte/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Bit/Acte/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655407.754
+    [REQUEST_TIME] => 1430655407
+    [argv] => Array
+        (
+            [0] => action=list&file=./Bit/Acte/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/Acte/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Bit/Acte/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54693
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Bit/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Bit/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655411.156
+    [REQUEST_TIME] => 1430655411
+    [argv] => Array
+        (
+            [0] => action=list&file=./Bit/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Bit/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54693
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=./Bit/Doc
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=./Bit/Doc
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655413.532
+    [REQUEST_TIME] => 1430655413
+    [argv] => Array
+        (
+            [0] => action=source&file=./Bit/Doc
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/Doc
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 109
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ORIGIN] => http://hazardj.local
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Bit/Doc
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54694
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /commonaccord/index.php
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655466.242
+    [REQUEST_TIME] => 1430655466
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+::: Array
+(
+    [newcontent] => DocBody={Doc}
+  
+=[Bit/Sec]  
+    [submit] => Save
+    [file] => ./Bit/Doc
+    [action] => source
+)
+
+./Bit/Doc
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54694
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Bit/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Bit/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655469.895
+    [REQUEST_TIME] => 1430655469
+    [argv] => Array
+        (
+            [0] => action=list&file=./Bit/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Bit/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54694
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655471.464
+    [REQUEST_TIME] => 1430655471
+    [argv] => Array
+        (
+            [0] => action=list&file=./
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54694
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Accord/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Accord/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655473.779
+    [REQUEST_TIME] => 1430655473
+    [argv] => Array
+        (
+            [0] => action=list&file=./Accord/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Accord/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Accord/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54694
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Accord/AdC/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Accord/AdC/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655475.19
+    [REQUEST_TIME] => 1430655475
+    [argv] => Array
+        (
+            [0] => action=list&file=./Accord/AdC/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Accord/AdC/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Accord/AdC/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54694
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655476.292
+    [REQUEST_TIME] => 1430655476
+    [argv] => Array
+        (
+            [0] => action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Accord/AdC/CNRS_AdC_Demo.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54695
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655506.793
+    [REQUEST_TIME] => 1430655506
+    [argv] => Array
+        (
+            [0] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54696
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Sec/Accord.FR.01.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Sec/Accord.FR.01.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655516.458
+    [REQUEST_TIME] => 1430655516
+    [argv] => Array
+        (
+            [0] => action=source&file=Sec/Accord.FR.01.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Sec/Accord.FR.01.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54697
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655722.755
+    [REQUEST_TIME] => 1430655722
+    [argv] => Array
+        (
+            [0] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54699
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=Accord/AdC/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=Accord/AdC/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655745.335
+    [REQUEST_TIME] => 1430655745
+    [argv] => Array
+        (
+            [0] => action=list&file=Accord/AdC/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=Accord/AdC/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54699
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Accord/AdC/CNRS_AdC_Demo.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Demo.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655747.676
+    [REQUEST_TIME] => 1430655747
+    [argv] => Array
+        (
+            [0] => action=source&file=Accord/AdC/CNRS_AdC_Demo.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/CNRS_AdC_Demo.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Demo.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54700
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=Accord/AdC/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=Accord/AdC/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655798.782
+    [REQUEST_TIME] => 1430655798
+    [argv] => Array
+        (
+            [0] => action=list&file=Accord/AdC/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=Accord/AdC/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54700
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=Accord/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=Accord/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655800.636
+    [REQUEST_TIME] => 1430655800
+    [argv] => Array
+        (
+            [0] => action=list&file=Accord/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=Accord/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54700
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=Accord/Service/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=Accord/Service/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655802.585
+    [REQUEST_TIME] => 1430655802
+    [argv] => Array
+        (
+            [0] => action=list&file=Accord/Service/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/Service/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=Accord/Service/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54700
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Accord/Service/Demo_Acme_Quake
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Accord/Service/Demo_Acme_Quake
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655804.879
+    [REQUEST_TIME] => 1430655804
+    [argv] => Array
+        (
+            [0] => action=source&file=Accord/Service/Demo_Acme_Quake
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/Service/Demo_Acme_Quake
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Accord/Service/Demo_Acme_Quake
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54701
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Accord/Service/Contrat_de_Service.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Accord/Service/Contrat_de_Service.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655816.541
+    [REQUEST_TIME] => 1430655816
+    [argv] => Array
+        (
+            [0] => action=source&file=Accord/Service/Contrat_de_Service.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/Service/Contrat_de_Service.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Accord/Service/Contrat_de_Service.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54702
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=Accord/Service/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=Accord/Service/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655826.634
+    [REQUEST_TIME] => 1430655826
+    [argv] => Array
+        (
+            [0] => action=list&file=Accord/Service/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/Service/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=Accord/Service/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54702
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=Accord/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=Accord/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655828.392
+    [REQUEST_TIME] => 1430655828
+    [argv] => Array
+        (
+            [0] => action=list&file=Accord/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=Accord/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54702
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655830.971
+    [REQUEST_TIME] => 1430655830
+    [argv] => Array
+        (
+            [0] => action=list&file=./
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54702
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Bit/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Bit/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655833.614
+    [REQUEST_TIME] => 1430655833
+    [argv] => Array
+        (
+            [0] => action=list&file=./Bit/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Bit/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54703
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=./Bit/SecList_40
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=./Bit/SecList_40
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430655838.843
+    [REQUEST_TIME] => 1430655838
+    [argv] => Array
+        (
+            [0] => action=source&file=./Bit/SecList_40
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/SecList_40
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Bit/SecList_40
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54704
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Bit/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Bit/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656032.571
+    [REQUEST_TIME] => 1430656032
+    [argv] => Array
+        (
+            [0] => action=list&file=./Bit/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Bit/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54705
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=./Bit/Sec_s17
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=./Bit/Sec_s17
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656038.71
+    [REQUEST_TIME] => 1430656038
+    [argv] => Array
+        (
+            [0] => action=source&file=./Bit/Sec_s17
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/Sec_s17
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Bit/Sec_s17
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54706
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Bit/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Bit/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656076.02
+    [REQUEST_TIME] => 1430656076
+    [argv] => Array
+        (
+            [0] => action=list&file=./Bit/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Bit/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Bit/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54706
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656078.577
+    [REQUEST_TIME] => 1430656078
+    [argv] => Array
+        (
+            [0] => action=list&file=./
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54706
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Accord/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Accord/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656080.517
+    [REQUEST_TIME] => 1430656080
+    [argv] => Array
+        (
+            [0] => action=list&file=./Accord/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Accord/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Accord/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54706
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=./Accord/AdC/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=./Accord/AdC/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656081.96
+    [REQUEST_TIME] => 1430656081
+    [argv] => Array
+        (
+            [0] => action=list&file=./Accord/AdC/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Accord/AdC/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=./Accord/AdC/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54706
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656083.606
+    [REQUEST_TIME] => 1430656083
+    [argv] => Array
+        (
+            [0] => action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+./Accord/AdC/CNRS_AdC_Demo.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54707
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656097.825
+    [REQUEST_TIME] => 1430656097
+    [argv] => Array
+        (
+            [0] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54708
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Sec/Accord.FR.01.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Sec/Accord.FR.01.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656104.148
+    [REQUEST_TIME] => 1430656104
+    [argv] => Array
+        (
+            [0] => action=source&file=Sec/Accord.FR.01.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Sec/Accord.FR.01.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54709
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=Accord/AdC/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=Accord/AdC/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656314.959
+    [REQUEST_TIME] => 1430656314
+    [argv] => Array
+        (
+            [0] => action=list&file=Accord/AdC/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=Accord/AdC/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54709
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656316.497
+    [REQUEST_TIME] => 1430656316
+    [argv] => Array
+        (
+            [0] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54709
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Sec/Accord.FR.01.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Sec/Accord.FR.01.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656322.189
+    [REQUEST_TIME] => 1430656322
+    [argv] => Array
+        (
+            [0] => action=source&file=Sec/Accord.FR.01.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Sec/Accord.FR.01.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54710
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Sec/FR_Prepositions_Masculines.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Sec/FR_Prepositions_Masculines.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656329.653
+    [REQUEST_TIME] => 1430656329
+    [argv] => Array
+        (
+            [0] => action=source&file=Sec/FR_Prepositions_Masculines.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Sec/FR_Prepositions_Masculines.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Sec/FR_Prepositions_Masculines.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54711
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Sec/FR_Autres_Elements.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Sec/FR_Autres_Elements.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656335.854
+    [REQUEST_TIME] => 1430656335
+    [argv] => Array
+        (
+            [0] => action=source&file=Sec/FR_Autres_Elements.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Sec/FR_Autres_Elements.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54712
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=core/id/andrea_ang
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=core/id/andrea_ang
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656349.185
+    [REQUEST_TIME] => 1430656349
+    [argv] => Array
+        (
+            [0] => action=source&file=core/id/andrea_ang
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+core/id/andrea_ang
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54713
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=core/id/abigail_altima
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=core/id/abigail_altima
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656355.349
+    [REQUEST_TIME] => 1430656355
+    [argv] => Array
+        (
+            [0] => action=source&file=core/id/abigail_altima
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+core/id/abigail_altima
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54714
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=core/id/acme_incorporated
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=core/id/acme_incorporated
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656362.741
+    [REQUEST_TIME] => 1430656362
+    [argv] => Array
+        (
+            [0] => action=source&file=core/id/acme_incorporated
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+core/id/acme_incorporated
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54714
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=core/id/quake_incorporated
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=core/id/quake_incorporated
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656367.715
+    [REQUEST_TIME] => 1430656367
+    [argv] => Array
+        (
+            [0] => action=source&file=core/id/quake_incorporated
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+core/id/quake_incorporated
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54714
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Sec/FR_Prepositions_Masculines.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Sec/FR_Prepositions_Masculines.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656372.054
+    [REQUEST_TIME] => 1430656372
+    [argv] => Array
+        (
+            [0] => action=source&file=Sec/FR_Prepositions_Masculines.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Sec/FR_Prepositions_Masculines.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Sec/FR_Prepositions_Masculines.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54714
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Sec/FR_Autres_Elements.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Sec/FR_Autres_Elements.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656375.086
+    [REQUEST_TIME] => 1430656375
+    [argv] => Array
+        (
+            [0] => action=source&file=Sec/FR_Autres_Elements.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Sec/FR_Autres_Elements.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54715
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656391.731
+    [REQUEST_TIME] => 1430656391
+    [argv] => Array
+        (
+            [0] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54716
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Bit/Sec_02
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Bit/Sec_02
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656399.4
+    [REQUEST_TIME] => 1430656399
+    [argv] => Array
+        (
+            [0] => action=source&file=Bit/Sec_02
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Sec_02
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Bit/Sec_02
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54717
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=Bit/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=Bit/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656420.074
+    [REQUEST_TIME] => 1430656420
+    [argv] => Array
+        (
+            [0] => action=list&file=Bit/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=list&file=Bit/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54717
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Bit/Sec_01
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Bit/Sec_01
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656422.36
+    [REQUEST_TIME] => 1430656422
+    [argv] => Array
+        (
+            [0] => action=source&file=Bit/Sec_01
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Sec_01
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54718
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Bit/Sec_02
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Bit/Sec_02
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656430.771
+    [REQUEST_TIME] => 1430656430
+    [argv] => Array
+        (
+            [0] => action=source&file=Bit/Sec_02
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Sec_02
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54718
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Bit/Sec_03
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Bit/Sec_03
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656435.043
+    [REQUEST_TIME] => 1430656435
+    [argv] => Array
+        (
+            [0] => action=source&file=Bit/Sec_03
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Sec_03
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54719
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Bit/Sec_02
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Bit/Sec_02
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656446.518
+    [REQUEST_TIME] => 1430656446
+    [argv] => Array
+        (
+            [0] => action=source&file=Bit/Sec_02
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Bit/Sec_02
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 343
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ORIGIN] => http://hazardj.local
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Bit/Sec_02
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54720
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /commonaccord/index.php
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656492.356
+    [REQUEST_TIME] => 1430656492
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+::: Array
+(
+    [newcontent] => =[Bit/Sec]
+
+Secs={1.Sec}<li>{2.Sec}
+
+secs={1.sec}<li>{2.sec}
+
+secs;and={1.sec}; and<li>{2.sec}.
+
+secs;or={1.sec}; or<li>{2.sec}.
+
+sens={1.sec} {2.sec}
+
+    [submit] => Save
+    [file] => Bit/Sec_02
+    [action] => source
+)
+
+Bit/Sec_02
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54721
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656503.063
+    [REQUEST_TIME] => 1430656503
+    [argv] => Array
+        (
+            [0] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_LANGUAGE] => en-us
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/7.1.5 Safari/537.85.14
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => fe80::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => fe80::1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54723
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656562.498
+    [REQUEST_TIME] => 1430656562
+    [argv] => Array
+        (
+            [0] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/7.1.5 Safari/537.85.14
+    [HTTP_ACCEPT_LANGUAGE] => en-us
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => fe80::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => fe80::1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54725
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656608.133
+    [REQUEST_TIME] => 1430656608
+    [argv] => Array
+        (
+            [0] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/7.1.5 Safari/537.85.14
+    [HTTP_ACCEPT_LANGUAGE] => en-us
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => fe80::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => fe80::1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54726
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656663.359
+    [REQUEST_TIME] => 1430656663
+    [argv] => Array
+        (
+            [0] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=./Accord/AdC/CNRS_AdC_Demo.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 54727
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [REQUEST_URI] => /commonaccord/index.php?action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430656900.938
+    [REQUEST_TIME] => 1430656900
+    [argv] => Array
+        (
+            [0] => action=source&file=Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+Accord/AdC/CNRS_AdC_Etranger_Forme.01.md
+
