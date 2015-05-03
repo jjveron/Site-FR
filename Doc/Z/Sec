@@ -1,0 +1,147 @@
+Model.Root={DocBody}
+
+DocBody={Sec}
+
+Doc=<font color="grey">{MessageToUser}</font><center><h4>{Heading.Sec}</h4></center><br>{sec} 
+
+Heading.Sec={0.Heading.Sec}
+
+0.Heading.Sec={Ti}
+
+Heading.Sec={Ti}
+
+Sec=<b>{Ti}</b><br>{sec}
+
+sec={0.Sec} {xlist} {90.Sec}
+
+xlist={Olist}
+
+Olist=<{ol}><li>{Secs}</li></ol>
+
+olist=<{ol}><li>{secs}</li></ol>
+
+ol=ol
+
+ol-a=ol type="a"
+
+ol-A=ol type="A"
+
+ol-I=ol type="I"
+
+ol-i=ol type="i"
+
+
+Alist=<ol type="a"><li>{Secs}</li></ol>
+
+alist=<ol type="a"><li>{secs}</li></ol>
+
+Ilist=<ol type="i"><li>{Secs}</li></ol>
+
+ilist=<ol type="i"><li>{secs}</li></ol>
+
+Ulist=<ul><li>{Secs}</li></ul>
+
+ulist=<ul><li>{secs}</li></ul>
+
+Nlist=<ul type="none"><li>{Secs}</li></ul>
+
+nlist=<ul type="none"><li>{secs}</li></ul>
+
+/blist = for "break list" e.g. < br>
+ 
+Blist=<ul type="none" style="padding-left: 0"><li>{Secs}</ul>
+
+blist=<ul type="none" style="padding-left: 0"><li>{secs}</ul>
+
+/Note=backwards compatibility - please use 0.sec in future
+0.Sec={0.sec}
+
+0.sec=<b></b>
+
+90.Sec={90.sec}
+
+90.sec=<b></b>
+
+Doc.4.Xref={d-}Section 4{-d}
+
+Doc.5.Xref={d-}Section 5{-d}
+
+1.=[Z/SubSec]
+
+2.=[Z/SubSec]
+
+3.=[Z/SubSec]
+
+4.=[Z/SubSec]
+
+5.=[Z/SubSec]
+
+6.=[Z/SubSec]
+
+7.=[Z/SubSec]
+
+8.=[Z/SubSec]
+
+9.=[Z/SubSec]
+
+10.=[Z/SubSec]
+
+11.=[Z/SubSec]
+
+12.=[Z/SubSec]
+
+13.=[Z/SubSec]
+
+14.=[Z/SubSec]
+
+15.=[Z/SubSec]
+
+16.=[Z/SubSec]
+
+17.=[Z/SubSec]
+
+18.=[Z/SubSec]
+
+19.=[Z/SubSec]
+
+20.=[Z/SubSec]
+
+21.=[Z/SubSec]
+
+22.=[Z/SubSec]
+
+23.=[Z/SubSec]
+
+24.=[Z/SubSec]
+
+25.=[Z/SubSec]
+
+26.=[Z/SubSec]
+
+27.=[Z/SubSec]
+
+28.=[Z/SubSec]
+
+29.=[Z/SubSec]
+
+30.=[Z/SubSec]
+
+31.=[Z/SubSec]
+
+32.=[Z/SubSec]
+
+33.=[Z/SubSec]
+
+34.=[Z/SubSec]
+
+35.=[Z/SubSec]
+
+36.=[Z/SubSec]
+
+37.=[Z/SubSec]
+
+38.=[Z/SubSec]
+
+39.=[Z/SubSec]
+
+40.=[Z/SubSec]

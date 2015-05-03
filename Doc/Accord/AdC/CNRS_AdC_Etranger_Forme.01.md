@@ -2,7 +2,7 @@ Note=https://www.dgdr.cnrs.fr/daj/modele/contrat/doc/MODELE2_AC_UNILATERAL_ETRAN
 
 Ti=Accord de Confidentialité - Unilateral Etranger
 
-=[Sec/Accord.FR.01.md]
+=[Z/Acte/Accord.md]
 
 Intro.Agree.Whereas.secs={Motivation.1.sec}<li>{Motivation.2.sec}<li>{Motivation.3.sec}
 
@@ -24,7 +24,7 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Info
 
 1.2.sec=cette expression désigne les informations de toute nature, communiquées par tous moyens pendant la durée de l’{Accord} par {P1.le/la} {P2.au/a_la}.
 
-1.=[Bit/Sec_02]
+1.=[Z/Sec_02]
 
 2.Ti=Objet de l’{Accord}
 
@@ -47,7 +47,7 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Info
 
 3.90.2.Sen={P2.Le/La} s’engage à ce que son personnel visé au 3.b) ci-dessus respecte les dispositions de l’{Accord}.
 
-3.=[Bit/Sec_s03]
+3.=[Z/Sec_s03]
   
 
 4.Ti=Exceptions
@@ -62,7 +62,7 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Info
 
 4.4.sec=qu’elles ont été développées de manière indépendante et de bonne foi par des membres de son personnel n’ayant pas eu accès à ces {Informations_Confidentielles}.
 
-4.=[Bit/Sec_s04]
+4.=[Z/Sec_s04]
   
 
 5.Ti=Limites de l’{Accord}
@@ -75,7 +75,7 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Info
 
 5.3.sec=une cession, par {P1.le/la}, d’un quelconque droit sur ces informations au profit {P2.du/de_la}. Le droit de propriété des {Informations_Confidentielles} appartient en tout état de cause {P1.au/à_la} (sous réserve des droits des tiers).
 
-5.=[Bit/Sec_s03]
+5.=[Z/Sec_s03]
 
 6.Ti=Transmission des {Informations_Confidentielles}
 
@@ -93,7 +93,7 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Info
 
 6.3.sec=Les procédés de transmission sont [à adapter – exemples : lettre simple, lettre recommandée avec accusé de réception, e-mail, etc.]
 
-6.=[Bit/Sec_s03]
+6.=[Z/Sec_s03]
 
 7.Ti=Destruction / Restitution des {Informations_Confidentielles}
 
@@ -121,7 +121,7 @@ A.7.sec=Les {Informations_Confidentielles}, ainsi que leurs reproductions évent
 
 11.2.sec=Nonobstant l’expiration ou la résiliation dans les conditions prévues à l’article 10 de l’{Accord}, les {Parties} demeurent liées par les engagements souscrits à l’article 3 pendant toute la durée prévue audit article, ainsi que par les articles 7, 8 et 14 de l’{Accord}.
 
-11.=[Bit/Sec_s02]
+11.=[Z/Sec_s02]
 
 12.Ti=Langue de l’{Accord}
 
@@ -139,9 +139,8 @@ Loi.Etat=français
 
 Tribunaux.les=les tribunaux français compétents
 
-=[Bit/Sec_14]
+=[Z/Sec_14]
 
 Informations_Confidentielles={d-}Informations Confidentielles{-d}
 
 PageName=Accord/CNRS_AdC_Etranger_Forme.01.md
-

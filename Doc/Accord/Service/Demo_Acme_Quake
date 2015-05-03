@@ -2,7 +2,6 @@ P1.=[ID/Acme_SARL.md]
 
 P2.=[ID/Quake_SA.md]
 
-
 Prix=1.000,00 Euro
 
 Contrat.Durée=six mois
@@ -20,4 +19,3 @@ Sign.Ville={m-}Paris{-m}
 m-=<font color="red">
 
 -m=</font>
-
