@@ -26,6 +26,8 @@ Addr.2=Boston, MA  02210
 
 Addr.Type=principal business
 
+Addr.Nation=United States of America
+
 Notice.Name.Ms={President.Name.Full}, {President.Title}
 
 SignBy=By: <u>{xSignature}</u><br/>Name: {President.Name.Full}<br/>Its: {President.Title}

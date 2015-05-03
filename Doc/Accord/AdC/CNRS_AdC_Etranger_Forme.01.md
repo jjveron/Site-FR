@@ -2,17 +2,15 @@ Note=https://www.dgdr.cnrs.fr/daj/modele/contrat/doc/MODELE2_AC_UNILATERAL_ETRAN
 
 Ti=Accord de Confidentialité - Unilateral Etranger
 
-=[Z/Acte/Accord.md]
+Que.secs={Que.1.sec}<li>{Que.2.sec}<li>{Que.3.sec}
 
-Intro.Agree.Whereas.secs={Motivation.1.sec}<li>{Motivation.2.sec}<li>{Motivation.3.sec}
+Que.1.sec=Considérant que {P1.le/la} mène des travaux de recherche concernant {Recherche.Sujet.cl} et que {P2.le/la}, spécialisé{P2./e} dans le domaine {P1.Competence.Domaine.du/de_la}, est intéressé{P2./e} par cette technologie
 
-Motivation.1.sec=Considérant que {P1.le/la} mène des travaux de recherche concernant {Recherche.Sujet.cl} et que {P2.le/la}, spécialisé{P2./e} dans le domaine {P1.Competence.Domaine.du/de_la}, est intéressé{P2./e} par cette technologie
+Que.2.sec=Considérant que {P1.le/la} possède des compétences et un savoir-faire dans le domaine {P1.Competence.Domaine.du/de_la} et que {P2.le/la} souhaite évaluer l’intérêt que présente pour {P2.lui/elle} ce savoir-faire
 
-Motivation.2.sec=Considérant que {P1.le/la} possède des compétences et un savoir-faire dans le domaine {P1.Competence.Domaine.du/de_la} et que {P2.le/la} souhaite évaluer l’intérêt que présente pour {P2.lui/elle} ce savoir-faire
+Que.3.sec=Considérant que {P1.le/la} possède des compétences dans le domaine {P1.Competence.Domaine.du/de_la} et que {P2.Rep1.Nom.M/Mme} {P2.du/de_la} souhaite visiter telle partie {P1.du/de_la} afin d’évaluer l’intérêt que présente pour {P2.le/la} le savoir-faire {P1.du/de_la} sur tels équipements
 
-Motivation.3.sec=Considérant que {P1.le/la} possède des compétences dans le domaine {P1.Competence.Domaine.du/de_la} et que {P2.Rep1.Nom.M/Mme} {P2.du/de_la} souhaite visiter telle partie {P1.du/de_la} afin d’évaluer l’intérêt que présente pour {P2.le/la} le savoir-faire {P1.du/de_la} sur tels équipements
-
-Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Informations_Confidentielles} dont la communication {P2.au/a_la} serait nécessaire.
+Conviennent.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Informations_Confidentielles} dont la communication {P2.au/a_la} serait nécessaire.
  
 1.Ti=Définitions
 
@@ -139,8 +137,10 @@ Loi.Etat=français
 
 Tribunaux.les=les tribunaux français compétents
 
-=[Z/Sec_14]
-
 Informations_Confidentielles={d-}Informations Confidentielles{-d}
 
 PageName=Accord/CNRS_AdC_Etranger_Forme.01.md
+
+=[Z/Acte/Accord2.md]
+
+=[Z/Sec_14]
