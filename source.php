@@ -7,40 +7,64 @@ include("header.php");
 
 <div class="container">
 <?php
-/* The length of the Missing Fields part of the text.*/
-$minDocLength = 101;
-
-$document = `perl parser2.pl $path/$dir`;
 
 //This displays the path, current file name, and provides the edit and show options //
 
-echo " <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>Org$rootdir[dirname]</a>/<b>$filenameX</b>
-&emsp; &emsp; &emsp; &emsp; " ;
 
-if (strlen($document) > $minDocLength){  
- echo " <a href=$_SERVER[PHP_SELF]?action=print&file=$rootdir[dirname]/$filenameX>Imprimer</a>
-  &emsp;  &emsp;  &emsp; " ;
+echo "<h4>
+
+<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/><img src='assets/arrowup.png' height=25>$rootdir[dirname]</a>/<b>$filenameX</b><br><center>
+";
+
+if (strpos($dir, ".html") == "0") {
+
+echo "
+
+<a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>Render the Document</b></a>
+  &emsp; 
+
+ <a href=$_SERVER[PHP_SELF]?action=opens&file=$rootdir[dirname]/$filenameX>Opens</a>
+  &emsp;
+
+
+<a href=https://github.com/$GitHubRepo/blob/master/Doc/$rootdir[dirname]/$filenameX>GitHub</a>
+  &emsp; 
+
+   <a href=$_SERVER[PHP_SELF]?action=source&file=$rootdir[dirname]/$filenameX.html> &emsp; &emsp; </a>
+  &emsp;
+
+";
+} else {
+
+$filenameMD = chop($filenameX,".html");
+
+echo "
+
+<a href=$_SERVER[PHP_SELF]?action=source&file=$rootdir[dirname]/$filenameMD>Source</a>
+  &emsp;
+
+
+<a href=$_SERVER[PHP_SELF]?action=html&file=$rootdir[dirname]/$filenameMD>regen/html</a>
+  &emsp;
+
+<a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>Render the Document</b></a>
+  &emsp; 
+
+"; 
 }
 
-echo "<a href=https://github.com/CommonAccord/FR/blob/master/Doc/$rootdir[dirname]/$filenameX>Voir à GitHub</a>
+echo "
 
-&emsp;  &emsp;  &emsp;  
-<a href=https://github.com/CommonAccord/FR/edit/master/Doc/$rootdir[dirname]/$filenameX>Modifier à GitHub</a>
-
+</center></h5>
 ";
 
 
 ?>
 
 <?php
-
-if (strlen($document) > $minDocLength){  
-  echo "<div id='tabs'><ul><li><a href='#tab-render'>Document</a></li><li><a href='#tab-source'>Source</a></li><li><a href='#tab-edit'>Modifier</a></li></ul><div id='tab-render'>" ;
-  echo $document;}
-else {
-  echo "<div id='tabs'><ul><li><a href='#tab-source'>Source</a></li><li><a href='#tab-edit'>Modifier</a></li></ul><div id='tab-render'>" ;
-
-}
+  echo "
+<div id='tabs'><ul><li>
+<a href='#tab-source'>Source</a></li><li><a href='#tab-edit'>Edit</a></li></ul><div id='tab-render'>" ;
 ?>
 </div>
 
@@ -80,7 +104,7 @@ foreach($contents as $n) {
 
 <?php
 echo "<form action=$_SERVER[PHP_SELF] method='post'>
-        <textarea id='textedit' cols=125 rows=30 name='newcontent' style='padding:20px;'>";
+        <textarea id='textedit' cols=125 rows=20 name='newcontent' style='padding:20px;'>";
 echo file_get_contents($path.$dir, FILE_USE_INCLUDE_PATH);
 
 echo '  </textarea><br>
