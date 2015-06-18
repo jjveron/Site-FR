@@ -6,7 +6,7 @@ Que.Cadre=Dans le cadre de {décrire_opération} (ci-après dénommée l' « {Op
 
 Que.Conditions=La {Partie_Divulgatrice} désire donc arrêter avec la {Partie_Destinataire}, dans le cadre du présent engagement de confidentialité, les conditions de divulgation de ces informations confidentielles et fixer les règles relatives à leur utilisation et à leur protection.
 
-1.sec=Dans le cadre du présent accord, les termes « {Informations_Confidentielles} » recouvrent notamment les données, bases de données, rapports, études, prévisions, contrats, analyses, compilations, notes, tableaux, dessins, graphismes, diagrammes, plans, concepts, équipements, modèles, échantillons, prototypes, logiciels, développements informatiques, matériels ou enregistrements et plus généralement, tous documents écrits ou imprimés, tous fichiers informatiques, éditions, représentations, ou impressions numériques, ainsi que toutes informations écrites ou orales, de nature notamment commerciale, financière, administrative, juridique ou technique, appartenant à la {Partie_Divulgatrice}.
+1.=[FR/Jurismatic/EdConf/Sec/Definition_Informations_Confidentielles.md]
 
 2.sec=Les {Informations_Confidentielles} sont notamment contenues dans toutes les pièces qui seront communiquées par la {Partie_Divulgatrice} au titre de l'{Opération} décrite au préambule, mais également dans les réponses ainsi que les échanges écrits et/ou oraux qui s'ensuivront.
 
