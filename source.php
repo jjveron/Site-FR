@@ -20,10 +20,10 @@ if (strpos($dir, ".html") == "0") {
 
 echo "
 
-<a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>Render the Document</b></a>
+<a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>document</b></a>
   &emsp; 
 
- <a href=$_SERVER[PHP_SELF]?action=opens&file=$rootdir[dirname]/$filenameX>Opens</a>
+ <a href=$_SERVER[PHP_SELF]?action=opens&file=$rootdir[dirname]/$filenameX>champs ouvertes</a>
   &emsp;
 
 
@@ -47,7 +47,7 @@ echo "
 <a href=$_SERVER[PHP_SELF]?action=html&file=$rootdir[dirname]/$filenameMD>regen/html</a>
   &emsp;
 
-<a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>Render the Document</b></a>
+<a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>document</b></a>
   &emsp; 
 
 "; 
@@ -64,7 +64,7 @@ echo "
 <?php
   echo "
 <div id='tabs'><ul><li>
-<a href='#tab-source'>Source</a></li><li><a href='#tab-edit'>Edit</a></li></ul><div id='tab-render'>" ;
+<a href='#tab-source'>Source</a></li><li><a href='#tab-edit'>éditer</a></li></ul><div id='tab-render'>" ;
 ?>
 </div>
 
