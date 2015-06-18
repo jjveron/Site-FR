@@ -23,7 +23,7 @@ echo "
 <a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>document</b></a>
   &emsp; 
 
- <a href=$_SERVER[PHP_SELF]?action=opens&file=$rootdir[dirname]/$filenameX>champs ouvertes</a>
+ <a href=$_SERVER[PHP_SELF]?action=opens&file=$rootdir[dirname]/$filenameX>champs ouverts</a>
   &emsp;
 
 
