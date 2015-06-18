@@ -8,7 +8,9 @@ CapitalEnLettres=cent mille Euros
 
 Adresse.1=101 rue Partout
 
-Adresse.2=75001 Paris
+Adresse.CP=75001
+
+Adresse.Ville=Paris
 
 Adresse.3=France
  
