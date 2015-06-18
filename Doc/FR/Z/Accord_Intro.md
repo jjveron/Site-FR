@@ -26,29 +26,97 @@ Parties.Liste.5={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}<li>{P5.sec}
 
 Parties.Liste.6={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}<li>{P5.sec}<li>{P6.sec}
 
-P1.sec={P1.N,E,A},<br>    représenté{P1.Nom./e} par {P1.Sign.Titre.son/sa}, {P1.Sign.Nom-Plein},<br>         ( « {P1.le/la} » )
+P1.1.sec={P1.Nom}
 
-P2.sec={P2.N,E,A},<br>     représenté{P2.Nom./e} par {P2.Sign.Titre.son/sa}, {P2.Sign.Nom-Plein},<br>         ( « {P2.le/la} » )
+P1.2.sec={P1.FormeJuridique} au capital de {P1.CapitalEnLettres}
 
-P3.sec={P3.N,E,A},<br>     représenté{P3.Nom./e} par {P3.Sign.Titre.son/sa}, {P3.Sign.Nom-Plein}, <br>        ( « {P3.le/la} » )
+P1.3.sec=Immatriculée au RCS de {P1.RCS.Adresse.Ville} sous le numéro {P1.RCS.#}
 
-P4.sec={P4.N,E,A},<br>     représenté{P4.Nom./e} par {P4.Sign.Titre.son/sa}, {P4.Sign.Nom-Plein}, <br>        ( « {P4.le/la} » )
+P1.4.sec=Dont le siège social est situé {P1.Siège.Adresse.1,2}
 
-P5.sec={P5.N,E,A},<br>     représenté{P5.Nom./e} par {P5.Sign.Titre.son/sa}, {P5.Sign.Nom-Plein},<br>         ( « {P5.le/la} » )
+P1.5.sec=Représentée par {P1.Sign.M/Mme-Nom} en qualité de {P1.Sign.Titre}, dûment habilité aux fins des présentes,
 
-P6.sec={P6.N,E,A},<br>     représenté{P6.Nom./e} par {P6.Sign.Titre.son/sa}, {P6.Sign.Nom-Plein}, <br>        ( « {P6.le/la} » )
+P1.6.sec=<div align="right">ci-après dénommé(e) la « {P1.Handle} »,</div>
 
-P1.N,E,A={P1.Nom-Plein}, {P1.Forme} dont l'adresse principal est {P1.Adr-1,2,3}
+P1.=[Z/paras/s6]
 
-P2.N,E,A={P2.Nom-Plein}, {P2.Forme} dont l'adresse principal est {P2.Adr-1,2,3}
 
-P3.N,E,A={P3.Nom-Plein}, {P3.Forme} dont l'adresse principal est {P3.Adr-1,2,3}
 
-P4.N,E,A={P4.Nom-Plein}, {P4.Forme} dont l'adresse principal est {P4.Adr-1,2,3}
+P2.1.sec={P2.Nom}
 
-P5.N,E,A={P5.Nom-Plein}, {P5.Forme} dont l'adresse principal est {P5.Adr-1,2,3}
+P2.2.sec={P2.FormeJuridique} au capital de {P2.CapitalEnLettres}
 
-P6.N,E,A={P6.Nom-Plein}, {P6.Forme} dont l'adresse principal est {P6.Adr-1,2,3}
+P2.3.sec=Immatriculée au RCS de {P2.RCS.Adresse.Ville} sous le numéro {P2.RCS.#}
+
+P2.4.sec=Dont le siège social est situé {P2.Siège.Adresse.1,2}
+
+P2.5.sec=Représentée par {P2.Sign.M/Mme-Nom} en qualité de {P2.Sign.Titre}, dûment habilité aux fins des présentes,
+
+P2.6.sec=<div align="right">ci-après dénommé(e) la « {P2.Handle} »,</div>
+
+P2.=[Z/paras/s6]
+
+
+
+P3.1.sec={P3.Nom}
+
+P3.2.sec={P3.FormeJuridique} au capital de {P3.CapitalEnLettres}
+
+P3.3.sec=Immatriculée au RCS de {P3.RCS.Adresse.Ville} sous le numéro {P3.RCS.#}
+
+P3.4.sec=Dont le siège social est situé {P3.Siège.Adresse.1,2}
+
+P3.5.sec=Représentée par {P3.Sign.M/Mme-Nom} en qualité de {P3.Sign.Titre}, dûment habilité aux fins des présentes,
+
+P3.6.sec=<div align="right">ci-après dénommé(e) la « {P3.Handle} »,</div>
+
+P3.=[Z/paras/s6]
+
+
+P4.1.sec={P4.Nom}
+
+P4.2.sec={P4.FormeJuridique} au capital de {P4.CapitalEnLettres}
+
+P4.3.sec=Immatriculée au RCS de {P4.RCS.Adresse.Ville} sous le numéro {P4.RCS.#}
+
+P4.4.sec=Dont le siège social est situé {P4.Siège.Adresse.1,2}
+
+P4.5.sec=Représentée par {P4.Sign.M/Mme-Nom} en qualité de {P4.Sign.Titre}, dûment habilité aux fins des présentes,
+
+P4.6.sec=<div align="right">ci-après dénommé(e) la « {P4.Handle} »,</div>
+
+P4.=[Z/paras/s6]
+
+
+P5.1.sec={P5.Nom}
+
+P5.2.sec={P5.FormeJuridique} au capital de {P5.CapitalEnLettres}
+
+P5.3.sec=Immatriculée au RCS de {P5.RCS.Adresse.Ville} sous le numéro {P5.RCS.#}
+
+P5.4.sec=Dont le siège social est situé {P5.Siège.Adresse.1,2}
+
+P5.5.sec=Représentée par {P5.Sign.M/Mme-Nom} en qualité de {P5.Sign.Titre}, dûment habilité aux fins des présentes,
+
+P5.6.sec=<div align="right">ci-après dénommé(e) la « {P5.Handle} »,</div>
+
+P5.=[Z/paras/s6]
+
+
+
+P6.1.sec={P6.Nom}
+
+P6.2.sec={P6.FormeJuridique} au capital de {P6.CapitalEnLettres}
+
+P6.3.sec=Immatriculée au RCS de {P6.RCS.Adresse.Ville} sous le numéro {P6.RCS.#}
+
+P6.4.sec=Dont le siège social est situé {P6.Siège.Adresse.1,2}
+
+P6.5.sec=Représentée par {P6.Sign.M/Mme-Nom} en qualité de {P6.Sign.Titre}, dûment habilité aux fins des présentes,
+
+P6.6.sec=<div align="right">ci-après dénommé(e) la « {P6.Handle} »,</div>
+
+P6.=[Z/paras/s6]
 
 Parties.Ti=Entre les {parties} :
 

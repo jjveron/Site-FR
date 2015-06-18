@@ -4,12 +4,16 @@ FormeJuridique=SARL
 
 Capital=100.000 Euros
 
+CapitalEnLettres=cent mille Euros
+
 Adresse.1=101 rue Partout
 
 Adresse.2=75001 Paris
 
 Adresse.3=France
  
+Siège.Adresse.1,2={Adresse.1,2}
+
 RCS.Adresse.Ville=Paris
 
 RCS.#=RCS PARIS 453 983 245
