@@ -12,35 +12,9 @@ Que.Conditions=La {Partie_Divulgatrice} désire donc arrêter avec la {Partie_De
 
 3.sec=La {Partie_Divulgatrice} ne donne aucune garantie expresse ou implicite quant à l'exactitude ou l'exhaustivité des {Informations_Confidentielles}, ni quant à leur adéquation aux objectifs poursuivis par la {Partie_Destinataire} dans le cadre de l'{Opération}.
 
-4.0.sec=La {Partie_Destinataire} s'engage à ce que les {Informations_Confidentielles} :
+4.=[FR/Jurismatic/EdConf/Sec/Engagements.md]
 
-4.1.sec=soient gardées strictement secrètes ;
-
-4.2.sec=ne soient divulguées de manière interne qu'aux seuls membres de son personnel ayant à en connaître ainsi qu'à ses conseils ou prestataires externes tenus aux mêmes obligations de confidentialité que celles prévues aux présentes et ne soient utilisées par ces derniers que dans le but défini au préambule du présent accord ;
-
-4.3.sec=ne soient pas utilisées, totalement ou partiellement, dans un autre but que celui défini par le présent accord, sans le consentement préalable et écrit de la {Partie_Divulgatrice} ;
-
-4.4.sec=ne soient ni divulguées ni susceptibles d'être divulguées, soit directement, soit indirectement, à tout tiers ou à toutes personnes autres que celles mentionnées à l'alinéa (b) ci-dessus;
-
-4.5.sec=ne soient ni copiées, ni reproduites, ni dupliquées totalement ou partiellement lorsque de telles copies, reproductions ou duplications ne sont pas pour ses besoins propres ou n'ont pas été autorisées par la {Partie_Divulgatrice} et ce, de manière expresse et par écrit.
-
-4.=[Z/Sec/s5]
-
-4.xlist={4.ulist}
-
-5.0.sec=Cette obligation ne s'étend pas aux documents et informations :
-
-5.1.sec=dont la {Partie_Destinataire} avait déjà connaissance ;
-
-5.2.sec=déjà publics lors de leur communication ou qui le deviendraient sans violation du présent accord ;
-
-5.3.sec=qui auraient été reçus d'un tiers de manière licite ;
-
-5.4.sec=dont la communication serait exigée par les autorités judiciaires, en application des lois et règlements ou en vue d'établir les droits d'une Partie au titre du présent accord.
-
-5.=[Z/Sec/s4]
-
-5.xlist={5.ulist}
+5.=[FR/Jurismatic/EdConf/Sec/Engagements.md]
 
 6.sec=Après la fin des discussions, la {Partie_Destinataire} s'engage, sur la demande de la {Partie_Divulgatrice}, à lui restituer et/ou à détruire tous les documents et/ou fichiers informatiques et/ou éléments de quelque nature que ce soit contenant ou constituant des {Informations_Confidentielles} et à ne pas en conserver de copie.
 
