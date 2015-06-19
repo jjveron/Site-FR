@@ -6,15 +6,15 @@ Que.Cadre=Dans le cadre de {décrire_opération} (ci-après dénommée l' « {Op
 
 Que.Conditions=La {Partie_Divulgatrice} désire donc arrêter avec la {Partie_Destinataire}, dans le cadre du présent engagement de confidentialité, les conditions de divulgation de ces informations confidentielles et fixer les règles relatives à leur utilisation et à leur protection.
 
-1.=[FR/Jurismatic/EdConf/Sec/Definition_Informations_Confidentielles.md]
+1.=[FR/Jurismatic/AcConf/Sec/Definition_Informations_Confidentielles.md]
 
 2.sec=Les {Informations_Confidentielles} sont notamment contenues dans toutes les pièces qui seront communiquées par la {Partie_Divulgatrice} au titre de l'{Opération} décrite au préambule, mais également dans les réponses ainsi que les échanges écrits et/ou oraux qui s'ensuivront.
 
 3.sec=La {Partie_Divulgatrice} ne donne aucune garantie expresse ou implicite quant à l'exactitude ou l'exhaustivité des {Informations_Confidentielles}, ni quant à leur adéquation aux objectifs poursuivis par la {Partie_Destinataire} dans le cadre de l'{Opération}.
 
-4.=[FR/Jurismatic/EdConf/Sec/Engagements.md]
+4.=[FR/Jurismatic/AcConf/Sec/Engagements.md]
 
-5.=[FR/Jurismatic/EdConf/Sec/Engagements.md]
+5.=[FR/Jurismatic/AcConf/Sec/Engagements.md]
 
 6.sec=Après la fin des discussions, la {Partie_Destinataire} s'engage, sur la demande de la {Partie_Divulgatrice}, à lui restituer et/ou à détruire tous les documents et/ou fichiers informatiques et/ou éléments de quelque nature que ce soit contenant ou constituant des {Informations_Confidentielles} et à ne pas en conserver de copie.
 
@@ -36,4 +36,4 @@ Litige.Tribunal.du=du Tribunal de Commerce de {Litige.TdC.Ville}
 
 =[Z/Sec/s11]  
 
-=[FR/Jurismatic/EdConf/Sec/Termes.md]
+=[FR/Jurismatic/AcConf/Sec/Termes.md]
