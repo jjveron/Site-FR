@@ -61,3 +61,5 @@ Litige.Tribunal.du=du Tribunal de Commerce de {Litige.TdC.Ville}
 =[FR/Z/Accord.md]
 
 =[Z/Sec/s11]
+
+« Modèles Jurismatic fournis sous licence Creative Commons BY-NC-SA 3.0 FR » Des changements ont eu lieu par rapport aux textes originaux.
