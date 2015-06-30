@@ -122,6 +122,8 @@ Ti=CONDITIONS GENERALES D'UTILISATION DE SITE INTERNET
 
 7.=[Z/Alt/2]
 
+7.SecName=7
+
 8.Ti=Données
 
 8.0.sec=L'Utilisateur reconnaît et accepte expressément :
