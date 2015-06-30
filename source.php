@@ -10,51 +10,16 @@ include("header.php");
 
 //This displays the path, current file name, and provides the edit and show options //
 
-
 echo "<h4>
 
 <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/><img src='assets/arrowup.png' height=25>$rootdir[dirname]</a>/<b>$filenameX</b><br><center>
-";
-
-if (strpos($dir, ".html") == "0") {
-
-echo "
-
 <a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>document</b></a>
   &emsp; 
 
  <a href=$_SERVER[PHP_SELF]?action=opens&file=$rootdir[dirname]/$filenameX>champs ouverts</a>
-  &emsp;
-
+  &emsp; 
 
 <a href=https://github.com/$GitHubRepo/blob/master/Doc/$rootdir[dirname]/$filenameX>GitHub</a>
-  &emsp; 
-
-   <a href=$_SERVER[PHP_SELF]?action=source&file=$rootdir[dirname]/$filenameX.html> &emsp; &emsp; </a>
-  &emsp;
-
-";
-} else {
-
-$filenameMD = chop($filenameX,".html");
-
-echo "
-
-<a href=$_SERVER[PHP_SELF]?action=source&file=$rootdir[dirname]/$filenameMD>Source</a>
-  &emsp;
-
-
-<a href=$_SERVER[PHP_SELF]?action=html&file=$rootdir[dirname]/$filenameMD>regen/html</a>
-  &emsp;
-
-<a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>document</b></a>
-  &emsp; 
-
-"; 
-}
-
-echo "
-
 </center></h5>
 ";
 
@@ -104,7 +69,7 @@ foreach($contents as $n) {
 
 <?php
 echo "<form action=$_SERVER[PHP_SELF] method='post'>
-        <textarea id='textedit' cols=125 rows=20 name='newcontent' style='padding:20px;'>";
+        <textarea id='textedit' cols=125 rows=30 name='newcontent' style='padding:20px;'>";
 echo file_get_contents($path.$dir, FILE_USE_INCLUDE_PATH);
 
 echo '  </textarea><br>

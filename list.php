@@ -20,7 +20,7 @@ if(! ($dir == './')) {
  	
 	echo "<div id='updir'><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/><img src='assets/arrowup.png' height=25>".$rootdir['dirname']."</a>/".$rootdir['filename']."</h3><br>";
 
- 	echo "<center><a href=https://github.com/$GitHubRepo/blob/master/Doc/".$dir.">Github</a></center>";
+ 	echo "<center><a href=https://github.com/$GitHubRepo/blob/master/Doc/".$dir.">Github</a></center></div>";
 
 #   echo "<h2 class='sc subtitle2'>". $rootdir['filename']."</h2>";
 } 
@@ -33,23 +33,20 @@ echo "<div class='includers'>";
 echo "</div>";
 }
 
-
 echo '<div class="listings">';
 echo "<div id='content-list'>";
 foreach($files as $f) {
-
         if(is_dir($path.$dir.$f)) {
-	  if( !( ($f == '.') || ($f == '..') || ($f == '.git')) ) {
+                if( !( ($f == '.') || ($f == '..') || ($f == '.git')) ) {
 
                         echo "<br><a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/><img height=20 src='assets/folder.png'> $f</a>";
                 }
         }
         else {
-	  if( !( ($f == 'include.php') || preg_match('/^\./', $f) || !(stripos($f, ".html") == 0)) ) {
+                if( !( ($f == 'include.php') || preg_match('/^\./', $f) ) ) {
                         echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f><img height=20 src='assets/play.png'> $f</a>";
                 }
         }
-
 }
 echo "</div></div>";
 ?>
