@@ -2,6 +2,8 @@
 <?php
 
 echo "<a href=index.php?action=source&file=" .$dir.">Source</a> &emsp; ";
+echo "<a href=index.php?action=openedit&file=" .$dir.">compléter</a> &emsp; ";
+
 echo "<a href=index.php?action=print&file=" .$dir.">Imprimer</a><br><br>";
 
 $document = `perl parser-print.pl $path/$dir`;

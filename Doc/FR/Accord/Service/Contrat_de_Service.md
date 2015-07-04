@@ -44,11 +44,11 @@ Doc.Title=CONTRAT DE PRESTATION DE SERVICES
 
 4.1.Ti=Le Prestataire
 
-4.1.sec={P2.Sign.Block}
+4.1.sec={P2.Sign.Bloc}
  
 4.2.Ti= Le Client
 
-4.2.sec={P1.Sign.Block}
+4.2.sec={P1.Sign.Bloc}
 
 4.=[Z/Sec/2]
 
@@ -63,3 +63,7 @@ xlist={Nlist}
 Note : Mettre le header au centre :
 
 DocBody={Doc}
+
+m-=<font color="red">
+
+-m=</font>
