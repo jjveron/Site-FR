@@ -5,7 +5,7 @@ Ti=CONTRAT DE PRESTATION DE SERVICES
 0.2.sec=La société {société 1}, {forme juridique 1} au capital de {Capital 1} euros, dont le siège social est {Adresse société 1}, enregistrée au Registre du Commerce et des Sociétés de {Ville RCS 1} sous le numéro {numéro RCS 1}, Représentée par M. {Dirigeant 1}, {Qualité 1},<p>ci-après désignée « Le Client »,<p> d'une part,<p><strong>et</strong>
 
 0.3.sec=La société {société 2}, {forme juridique 2} au capital de {Capital 2} euros, dont le siège social est {Adresse société 2}, enregistrée au Registre du Commerce et des Sociétés de {Ville RCS 2} sous le numéro {numéro RCS 2}, représentée par M. {Dirigeant 2}, {Qualité 2},<p>ci-après dénommée « le Prestataire de services » ou « le Prestataire »,<p>d'autre part,<p>il a été convenu ce qui suit :
-
+ 
 0.=[Z/Sec/s3]
 
 1.Ti=Article premier - Objet
