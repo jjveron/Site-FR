@@ -14,7 +14,17 @@ Ti=CONTRAT DE PRESTATION DE SERVICES
 
 2.Ti=Article 2 - Montant
 
-2.sec=En contrepartie de la réalisation des prestations définies à l Article premier ci-dessus, le client versera au prestataire la somme forfaitaire de {Montant} euros, ventilée de la manière suivante:<p>20% à la signature des présentes ;<p>30% au (n) jour suivant la signature des présentes ;<p>50% constituant le solde, à la réception de la tâche.<p>Les frais engagés par le prestataire : déplacement, hébergement, repas et frais annexes de dactylographie, reprographie, etc., nécessaires à l exécution de la prestation, seront facturés en sus au client sur relevé de dépenses.<p>Les sommes prévues ci-dessus seront payées par chèque, dans les huit jours de la réception de la facture, droits et taxes en sus.
+2.0.sec=En contrepartie de la réalisation des prestations définies à l Article premier ci-dessus, le client versera au prestataire la somme forfaitaire de {Montant} euros, ventilée de la manière suivante:
+
+2.1.sec=20% à la signature des présentes ;
+
+2.2.sec=30% au (n) jour suivant la signature des présentes ;
+
+2.3.sec=50% constituant le solde, à la réception de la tâche.
+
+2.90.sec=Les frais engagés par le prestataire : déplacement, hébergement, repas et frais annexes de dactylographie, reprographie, etc., nécessaires à l exécution de la prestation, seront facturés en sus au client sur relevé de dépenses.<p>Les sommes prévues ci-dessus seront payées par chèque, dans les huit jours de la réception de la facture, droits et taxes en sus.
+
+2.=[Z/Sec/s3]
 
 3.Ti=Article 3 – Durée
 
