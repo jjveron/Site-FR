@@ -1,7 +1,3 @@
-Model.Root={Modele_contrat}
-
-NOUVEAU CONTRAT
-
 Ti=CONTRAT DE PRESTATION DE SERVICES
 
 0.1.sec=Entre les soussignés :
