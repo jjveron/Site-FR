@@ -6,6 +6,8 @@ Ti=CONTRAT DE PRESTATION DE SERVICES
 
 0.3.sec=La société {société 2}, {forme juridique 2} au capital de {Capital 2} euros, dont le siège social est {Adresse société 2}, enregistrée au Registre du Commerce et des Sociétés de {Ville RCS 2} sous le numéro {numéro RCS 2}, représentée par M. {Dirigeant 2}, {Qualité 2},<p>ci-après dénommée « le Prestataire de services » ou « le Prestataire »,<p>d'autre part,<p>il a été convenu ce qui suit :
 
+0.=[Z/Sec/s3]
+
 1.Ti=Article premier - Objet
 
 1.sec=Le présent contrat est un contrat de prestation de conseil ayant pour objet la mission définie au cahier des charges annexé au présent contrat et en faisant partie intégrante.
